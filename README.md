@@ -20,8 +20,8 @@ not just *Discover → Book*, but **Discover → Verify → Book → Squad → S
 
 | | |
 |---|---|
-| 🌐 **App** | [your-app.vercel.app](https://eventra-blush.vercel.app) |
-| ⚙️ **API** | [your-api.onrender.com](https://eventra-oqbn.onrender.com/api/health) |
+| 🌐 **App** | [Ujjawal-Eventra.vercel.app](https://eventra-blush.vercel.app) |
+| ⚙️ **API** | [Ujjawal.onrender.com](https://eventra-oqbn.onrender.com/api/health) |
 | 🔑 **Demo login** | `demo@eventra.com` / `Demo@123` |  
 
 > The demo account comes pre-loaded with a squad, confirmed tickets, an

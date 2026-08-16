@@ -7,8 +7,8 @@
 Eventra turns event ticket booking into a complete group-outing experience —
 not just *Discover → Book*, but **Discover → Verify → Book → Squad → Share → Meet → Plan → Attend.**
 
-[![Live Demo](https://img.shields.io/badge/demo-live-6C56F0?style=for-the-badge)](https://your-app.vercel.app)
-[![Backend](https://img.shields.io/badge/API-Render-46E3B7?style=for-the-badge)](https://your-api.onrender.com/api/health)
+[![Live Demo](https://img.shields.io/badge/demo-live-6C56F0?style=for-the-badge)](https://eventra-blush.vercel.app)
+[![Backend](https://img.shields.io/badge/API-Render-46E3B7?style=for-the-badge)](https://eventra-oqbn.onrender.com/api/health)
 [![Node](https://img.shields.io/badge/node-18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![React](https://img.shields.io/badge/react-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
 
@@ -20,9 +20,9 @@ not just *Discover → Book*, but **Discover → Verify → Book → Squad → S
 
 | | |
 |---|---|
-| 🌐 **App** | [your-app.vercel.app](https://your-app.vercel.app) |
-| ⚙️ **API** | [your-api.onrender.com](https://your-api.onrender.com/api/health) |
-| 🔑 **Demo login** | `demo@eventra.com` / `Demo@123` |
+| 🌐 **App** | [your-app.vercel.app](https://eventra-blush.vercel.app) |
+| ⚙️ **API** | [your-api.onrender.com](https://eventra-oqbn.onrender.com/api/health) |
+| 🔑 **Demo login** | `demo@eventra.com` / `Demo@123` |  
 
 > The demo account comes pre-loaded with a squad, confirmed tickets, an
 > accepted meeting point, and a generated outing plan — so you can see
